@@ -1,4 +1,8 @@
 # House-Price-Prediction
+## Problem Statement
+- Task 1:- Prepare a complete data analysis report on the given data.
+- Task 2:-a) Create a robust machine learning algorithm to accurately predict the price of the house given the various factors across the market. b) Determine the relationship between the house features and how the price varies based on this.
+- Task3:- Come up with suggestions for the customer to buy the house according to the area, price and other requirements.
 ## Acknowledgments
 - The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 ### **Data Fields**  
